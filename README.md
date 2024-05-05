@@ -21,10 +21,3 @@ The project is structured around the following key components:
 - **Comparing Before and After Scenarios:** Compares the distribution of CompaRatio across different performance grades before and after proposed merit increases.
 
 - **Key Findings:** Summarizes the key insights and conclusions drawn from the analysis.
-
-## Usage
-
-To run the notebook locally, you can clone this repository:
-
-```bash
-git clone https://github.com/LiviaMoreira/merit-increase-matrix.git
